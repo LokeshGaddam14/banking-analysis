@@ -1,0 +1,33 @@
+# Banking Analysis Project Dependencies
+# Automated Bad Loan Detection System with Data Quality Audit
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+xgboost>=1.6.0
+catboost>=1.1.0
+lightgbm>=3.3.0
+
+# SQL
+sqlalchemy>=2.0.0
+sqlite3-python>=1.0.0
+
+# Data Validation & Quality
+pydantic>=1.10.0
+great-expectations>=0.15.0
+
+# Data Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.10.0
+
+# Statistical Analysis
+scipy>=1.9.0
+statsmodels>=0.13.0
+
+# Development
+jupyter>=1.0.0
+ipython>=8.0.0
